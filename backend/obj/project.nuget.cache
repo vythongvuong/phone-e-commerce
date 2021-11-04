@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NqTvPt78VqPS8Wj/Hh8BVRzpJdttdCuhPQa8IphpDssICNwUk1fh/YvwmotiiZyb/NGP1w69CB2WiuuvcnAJgQ==",
+  "dgSpecHash": "rqJubifs4WAyw9wjlcdZ/TXfK6l86YUj56CNjN4qE3Eu95nOLS9YCv8kskOATb387XJquD6t1qprQdYu1ktmVg==",
   "success": true,
-  "projectFilePath": "D:\\Myproject\\Phone-ECommerce-master\\backend\\backend.csproj",
+  "projectFilePath": "D:\\Myproject\\phone-e-commerce\\backend\\backend.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

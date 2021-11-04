@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Myproject\\Phone-ECommerce-master\\backend\\backend.csproj",
+      "projectUniqueName": "D:\\Myproject\\phone-e-commerce\\backend\\backend.csproj",
       "projectName": "backend",
-      "projectPath": "D:\\Myproject\\Phone-ECommerce-master\\backend\\backend.csproj",
+      "projectPath": "D:\\Myproject\\phone-e-commerce\\backend\\backend.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "D:\\Myproject\\Phone-ECommerce-master\\backend\\obj\\",
+      "outputPath": "D:\\Myproject\\phone-e-commerce\\backend\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
